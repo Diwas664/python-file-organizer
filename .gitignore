@@ -1,0 +1,5 @@
+CSVs/
+Images/
+PDFs/
+__pycache__/
+*.pyc
